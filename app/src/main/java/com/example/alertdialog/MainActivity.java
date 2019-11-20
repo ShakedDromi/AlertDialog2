@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         ad.show();
     }
 
+
     public void pic(View view) {
     }
 }
